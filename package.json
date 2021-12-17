@@ -1,0 +1,23 @@
+{
+  "name": "javascript-github-actions",
+  "version": "1.0.0",
+  "description": "Trying Github Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guneetsinghtuli/javascript-github-actions.git"
+  },
+  "keywords": [],
+  "author": "guneetsingh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guneetsinghtuli/javascript-github-actions/issues"
+  },
+  "homepage": "https://github.com/Guneetsinghtuli/javascript-github-actions#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
